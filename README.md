@@ -43,25 +43,25 @@
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (1).png" />
+    src="https://raw.githubusercontent.com/MsbSoft2/TravalApp_React_Native/main/screenshots/s%20(1).png" />
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (2).png" />
+    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s%(2).png" />
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (3).png" />
+    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s%(3).png" />
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (4).png" />
+    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s%(4).png" />
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (5).png" />
+    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s%(5).png" />
     <img
     width="190"
     style="margin: 1.2rem; border: 1px solid #f1f1f1; border-radius: 5px"
-    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s (6).png" />
+    src="https://github.com/MsbSoft2/TravalApp_React_Native/raw/main/Screenshots/s%(6).png" />
 </div>
